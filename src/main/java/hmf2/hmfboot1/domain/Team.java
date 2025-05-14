@@ -1,6 +1,6 @@
 package hmf2.hmfboot1.domain;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 public class Team {
